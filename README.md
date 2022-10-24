@@ -1,7 +1,7 @@
 # PROJECT 3 Mintool 
 
 ## 데모영상
-![image](https://user-images.githubusercontent.com/75701998/197426640-48846ef3-c657-4891-98c0-106a57d89b9a.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1c5eb46f-6d16-4111-b042-877570035116/ezgif.com-gif-maker_%281%29.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221024%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221024T002947Z&X-Amz-Expires=86400&X-Amz-Signature=5cffcbe2a50e3a1adfed0080bfcc725db064130ffb2683ea24e492b8f5df3fc9&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 ## 팀 구성 및 역할
 
