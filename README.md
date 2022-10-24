@@ -2,9 +2,12 @@
 
 ## 데모영상
 [영상링크](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec16b739-662c-4c0e-bcf2-5794e33094d1/test.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221024%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221024T003004Z&X-Amz-Expires=86400&X-Amz-Signature=ee6a26c7fec4d30293713d968ab9b4994fc3600ff1dd88ffe179812cb7ea0c59&X-Amz-SignedHeaders=host&x-id=GetObject)
-## 팀 구성 및 역할
+
+## 프로젝트 설계
 ![image](https://user-images.githubusercontent.com/75701998/197429348-f786251f-6c00-4386-97ed-39e1804db7c5.png)
 
+
+## 팀 구성 및 역할
 
 ### 팀원 구성
 
