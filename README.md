@@ -1,7 +1,7 @@
 # PROJECT 3 Mintool 
 
 ## 데모영상
-![](https://user-images.githubusercontent.com/75701998/197425914-bf2f1530-9cbc-456d-817b-382803d25132.mp4)
+![demo_vid](https://user-images.githubusercontent.com/75701998/197425914-bf2f1530-9cbc-456d-817b-382803d25132.mp4)
 
 ## 팀 구성 및 역할
 
