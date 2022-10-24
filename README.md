@@ -1,7 +1,7 @@
 # PROJECT 3 Mintool 
 
 ## 데모영상
-![demo_vid](https://user-images.githubusercontent.com/75701998/197425914-bf2f1530-9cbc-456d-817b-382803d25132.mp4)
+![demo_vid](https://www.notion.so/About-Project-dfc1d95fdbac40f09856c3779589cd2f#b2593dd92c4a4556bb9fb1ee43995ee3)
 
 ## 팀 구성 및 역할
 
