@@ -3,7 +3,7 @@
 [Mintool-env.eba-aepxvs9t.ap-northeast-2.elasticbeanstalk.com](http://mintool-env.eba-aepxvs9t.ap-northeast-2.elasticbeanstalk.com/)
 
 ## 데모영상
-[영상링크](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec16b739-662c-4c0e-bcf2-5794e33094d1/test.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221024%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221024T003004Z&X-Amz-Expires=86400&X-Amz-Signature=ee6a26c7fec4d30293713d968ab9b4994fc3600ff1dd88ffe179812cb7ea0c59&X-Amz-SignedHeaders=host&x-id=GetObject)
+![영상](https://user-images.githubusercontent.com/75701998/198909476-5b17da54-339b-4f53-852c-d66221199fba.gif)
 
 ## 프로젝트 설계
 ![image](https://user-images.githubusercontent.com/75701998/197429535-f38aec96-71e1-4098-a316-8dc803292784.png)
